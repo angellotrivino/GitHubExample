@@ -7,3 +7,5 @@ Nació en Colombia y actualmente tiene 28 años
 Cumple años el 14 de octubre
 
 Pero tambien es inversionista
+
+Esto es una prueba de quitar .gitignore
