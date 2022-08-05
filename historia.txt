@@ -9,3 +9,5 @@ Cumple años el 14 de octubre
 Pero tambien es inversionista
 
 Esto es una prueba de quitar .gitignore
+
+Esto es stach
